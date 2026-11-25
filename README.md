@@ -12,4 +12,4 @@ Contribuir para a valorização da cultura indígena por meio de um ambiente dig
 
 ## Público-alvo
 
-Estudantes, professores, pesquisadores e qualquer pessoa interessada em conhecer e aprender sobre a cultura dos povos Guarani Mbyá e Guarani Nhandeva.
+Estudantes, professores e qualquer pessoa interessada em conhecer e aprender sobre a cultura dos povos Guarani Mbyá e Guarani Nhandeva.
