@@ -1,2 +1,13 @@
-# Ra-zes-do-Brasil
-O projeto Raízes do Brasil consiste no desenvolvimento de uma plataforma web educativa que tem como objetivo promover o conhecimento, a valorização e a preservação da cultura, da história e dos conhecimentos dos povos indígenas Guarani Mbyá e Guarani Nhandeva presentes no estado de São Paulo.
+# Raízes do Brasil
+
+O **Raízes do Brasil** é uma plataforma web educativa que tem como objetivo promover o conhecimento, a valorização e a preservação da cultura, da história e dos saberes dos povos indígenas **Guarani Mbyá e Guarani Nhandeva**, presentes no estado de São Paulo.
+
+O projeto utiliza a tecnologia como ferramenta de educação e conscientização, buscando facilitar o acesso a informações sobre esses povos, suas tradições, costumes, história e identidade cultural.
+
+## Objetivo
+
+Contribuir para a valorização da cultura indígena por meio de um ambiente digital educativo, acessível e informativo, incentivando o aprendizado e o reconhecimento da diversidade cultural brasileira.
+
+## Público-alvo
+
+Estudantes, professores, pesquisadores e qualquer pessoa interessada em conhecer e aprender sobre a cultura dos povos Guarani Mbyá e Guarani Nhandeva.
